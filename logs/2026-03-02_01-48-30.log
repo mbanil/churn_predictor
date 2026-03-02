@@ -1,0 +1,6 @@
+2026-03-02 01:48:30,071 | INFO | churn_pipeline | Separating features and target.
+2026-03-02 01:48:30,081 | INFO | churn_pipeline | Building preprocessing pipeline.
+2026-03-02 01:48:30,083 | INFO | churn_pipeline | Pipeline built successfully.
+2026-03-02 01:48:30,083 | INFO | churn_pipeline | Fitting preprocessing pipeline.
+2026-03-02 01:48:30,136 | INFO | churn_pipeline | Preprocessing completed.
+2026-03-02 01:48:30,140 | INFO | churn_pipeline | Preprocessing pipeline saved at models/preprocessing_pipeline.pkl

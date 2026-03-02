@@ -1,0 +1,6 @@
+2026-03-02 01:13:35,463 | INFO | churn_pipeline | Loading raw dataset...
+2026-03-02 01:13:35,511 | INFO | churn_pipeline | Dataset loaded successfully. Shape: (7043, 21)
+2026-03-02 01:13:35,511 | INFO | churn_pipeline | Running basic validation checks...
+2026-03-02 01:13:35,513 | INFO | churn_pipeline | Validation passed successfully.
+2026-03-02 01:13:35,565 | INFO | churn_pipeline | Processed data saved at data/processed/validated_data.csv
+2026-03-02 01:13:35,565 | INFO | churn_pipeline | Data ingestion pipeline completed successfully.

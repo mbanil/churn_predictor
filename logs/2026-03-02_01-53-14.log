@@ -1,0 +1,7 @@
+2026-03-02 01:53:27,075 | INFO | churn_pipeline | Preprocessing pipeline loaded successfully.
+2026-03-02 01:53:27,076 | INFO | churn_pipeline | Preprocessing pipeline loaded successfully for testing.
+2026-03-02 01:53:40,728 | INFO | churn_pipeline | Preprocessing pipeline loaded successfully.
+2026-03-02 01:53:40,728 | INFO | churn_pipeline | Preprocessing pipeline loaded successfully for testing.
+2026-03-02 01:53:56,890 | INFO | churn_pipeline | Loaded validated data. Shape: (7043, 21)
+2026-03-02 01:54:03,244 | INFO | churn_pipeline | Separating features and target.
+2026-03-02 01:54:03,268 | INFO | churn_pipeline | Transforming new data using fitted pipeline.
